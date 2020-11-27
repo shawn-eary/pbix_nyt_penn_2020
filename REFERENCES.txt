@@ -1,0 +1,19 @@
+Also can possibly be found on Lynda.com which is now LinkedIn Learning
+Microsoft Advanced Power BI with Helen Wall
+https://www.linkedin.com/learning/advanced-microsoft-power-bi
+
+Three Part Excel Business Intelligence Series by Chris Dutton
+https://www.linkedin.com/learning/excel-business-intelligence-power-query
+
+Also look for Power BI content by Gini von Courter in LinkedIn Learning
+
+NYT Data Came from
+The Burning Platform (Article’s Claims are Unverified)
+https://www.theburningplatform.com/2020/11/15/the-new-york-times-pennsylvania-voting-data-seems-to-confirm-massive-vote-count-manipulation-for-biden/
+https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/pennsylvania/president.json
+
+Trick to Copy and Shift Rows
+https://exceltown.com/en/tutorials/power-bi/powerbi-com-and-power-bi-desktop/power-bi-data-sources/power-query-get-value-from-previous-row/
+
+You can also find the NYT Data Here:
+https://github.com/favstats/USElection2020-NYT-Results
